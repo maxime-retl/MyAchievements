@@ -1,6 +1,6 @@
 # 🏆 Mes Réalisations
 
-Bienvenue dans mon **vault / dépôt GitHub** regroupant toutes mes réalisations professionnelles et projets personnels.  
+Bienvenue dans mon **vault / dépôt GitHub** regroupant toutes mes réalisations professionnelles chez R&L.  
 Vous trouverez ici une collection organisée de **projets WinForms, développements WordPress, applications React, scripts et outils Zoho**, ainsi que divers projets annexes.
 
 > Ce dépôt est pensé pour être **consulté en lecture seule**, avec des liens directs vers chaque note ou projet.  
@@ -70,6 +70,6 @@ Vous trouverez ici une collection organisée de **projets WinForms, développeme
 
 💡 **Astuce pour naviguer** :  
 - Tous les liens sont relatifs → ils ouvrent directement le fichier Markdown correspondant.  
-- Sur GitHub, vous pouvez utiliser la navigation ou la recherche du dépôt pour retrouver rapidement vos projets préférés.
+- Sur GitHub, vous pouvez utiliser la navigation ou la recherche du dépôt pour retrouver un projet.
 
 ---
