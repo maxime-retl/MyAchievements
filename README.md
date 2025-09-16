@@ -1,3 +1,15 @@
+# 🏆 Mes Réalisations
+
+Bienvenue dans mon **vault / dépôt GitHub** regroupant toutes mes réalisations professionnelles et projets personnels.  
+Vous trouverez ici une collection organisée de **projets WinForms, développements WordPress, applications React, scripts et outils Zoho**, ainsi que divers projets annexes.
+
+> Ce dépôt est pensé pour être **consulté en lecture seule**, avec des liens directs vers chaque note ou projet.  
+> Cliquez sur un lien pour accéder au fichier Markdown correspondant, avec toutes les informations détaillées.
+
+---
+
+## 📂 Structure du dépôt
+
 - #### **Applications WinForms** :
   - [CheckRDP](Custom%20app/CheckRDP.md)
   - [ColorCreator](Custom%20app/ColorCreator.md)
@@ -53,3 +65,11 @@
 - [Liste d'autres tâches réalisées](Non%20dev/Liste%20d'autres%20tâches%20réalisées.md)
 - [Bibliothèque de module](Sketchup/Bibliothèque%20de%20module.md)
 - [Matériauthèque](Sketchup/Matériauthèque.md)
+
+---
+
+💡 **Astuce pour naviguer** :  
+- Tous les liens sont relatifs → ils ouvrent directement le fichier Markdown correspondant.  
+- Sur GitHub, vous pouvez utiliser la navigation ou la recherche du dépôt pour retrouver rapidement vos projets préférés.
+
+---
