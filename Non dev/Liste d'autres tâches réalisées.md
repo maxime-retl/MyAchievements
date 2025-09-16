@@ -1,0 +1,4 @@
+- configuration de poste
+- configuration d'imprimante
+- optimisation de projet CV pour production
+- reprise de pièce dans CV / WebCab pour production (gestion des alertes)

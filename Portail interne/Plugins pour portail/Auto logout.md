@@ -1,0 +1,1 @@
+Plugin pour déterminer une heure précise où tous les utilisateurs du portail seront automatiquement déconnecté.

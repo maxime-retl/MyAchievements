@@ -1,0 +1,1 @@
+Ajout d'un bouton dans Cabinet Vision permettant de copier des fichiers pour CIENAPPS. Optimisation de processus

@@ -1,0 +1,1 @@
+L'idée principale était d'avoir une plateforme interne où regrouper le maximum d'outils et d'informations destinés aux employés de R&L
