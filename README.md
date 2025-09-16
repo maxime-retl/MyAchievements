@@ -16,7 +16,7 @@
     - [Carrousel citations (portail)](Portail%20interne/Plugins%20pour%20portail/Carrousel%20citations%20(portail).md)
     - [Custom clocks](Portail%20interne/Plugins%20pour%20portail/Custom%20clocks.md)
     - [KB Favorites](Portail%20interne/Plugins%20pour%20portail/KB%20Favorites.md)
-    - [Punch](Punch.md)
+    - [Punch](Portail%20interne/Plugins%20pour%20portail/Punch.md)
   - ##### **Autres** :
     - [Base de connaissance](Portail%20interne/Base%20de%20connaissance.md)
     - [Capsules vidéos (RH)](Portail%20interne/Capsules%20vidéos%20(RH).md)
